@@ -7,7 +7,7 @@ public class pruebaArchivo {
 
     private ArrayList<String> contenidoArchivo = new ArrayList<>();
     private ArrayList<Operador> listaEntrada = new ArrayList<>();
-    private final String rutaWindows = "C:\\Users\\monst\\IdeaProjects\\OperadorArchivo\\src\\Archivo\\datos.txt";
+    private final String rutaWindows = ""C:\\Datos Java\\datos.txt"";
 
 
     public ArrayList<String> getContenidoArchivo() {
